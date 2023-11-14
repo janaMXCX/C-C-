@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1697000886 source:d:\办公学习\c语言\c文件\demo4\main.cpp
+	"Set.h"
+
+1697077764 d:\办公学习\c语言\c文件\demo4\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<iostream>
+	<stack>
+	<queue>
+	"create.h"
+	"traverse.h"
+	"Nonrecursive.h"
+	"Strataorder.h"
+	"depth.h"
+	"leaf.h"
+
+1697032269 d:\办公学习\c语言\c文件\demo4\create.h
+	"Set.h"
+
+1697079937 source:d:\办公学习\c语言\c文件\demo4\set.cpp
+	"Set.h"
+
+1697038501 source:d:\办公学习\c语言\c文件\demo4\traverse.cpp
+	"Set.h"
+	<iostream>
+
+1697077951 source:d:\办公学习\c语言\c文件\demo4\create.cpp
+	"Set.h"
+	<iostream>
+
+1697034963 d:\办公学习\c语言\c文件\demo4\traverse.h
+	"Set.h"
+
+1697036040 d:\办公学习\c语言\c文件\demo4\nonrecursive.h
+	"Set.h"
+
+1697554501 source:d:\办公学习\c语言\c文件\demo4\nonrecursive.cpp
+	"Set.h"
+
+1697038940 d:\办公学习\c语言\c文件\demo4\strataorder.h
+	"Set.h"
+
+1697040616 d:\办公学习\c语言\c文件\demo4\depth.h
+	"Set.h"
+
+1697080329 source:d:\办公学习\c语言\c文件\demo4\strataorder.cpp
+	"Set.h"
+
+1697555823 source:d:\办公学习\c语言\c文件\demo4\depth.cpp
+	"Set.h"
+
+1697040545 d:\办公学习\c语言\c文件\demo4\leaf.h
+
