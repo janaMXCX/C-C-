@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1694616951 source:d:\办公学习\c语言\c文件\demo1\link_list.cpp
+
+1694622189 source:d:\办公学习\c语言\c文件\demo1\main.cpp
+	<iostream>
+	"Set.h"
+
+1694967935 d:\办公学习\c语言\c文件\demo1\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694656538 source:d:\办公学习\c语言\c文件\demo1\sq_list.cpp
+
+1694967935 source:d:\办公学习\c语言\c文件\demo1\set.cpp
+	"Set.h"
+	"sqlist.h"
+	"linklist.h"
+	"sqlist2.h"
+	"linklist2.h"
+
+1694620531 d:\办公学习\c语言\c文件\demo1\sq_list.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1694952511 source:d:\办公学习\c语言\c文件\demo1\linklist.cpp
+	"linklist.h"
+
+1695219881 source:d:\办公学习\c语言\c文件\demo1\sqlist.cpp
+	"sqlist.h"
+
+1694963744 d:\办公学习\c语言\c文件\demo1\sqlist.h
+	"Set.h"
+
+1694952511 d:\办公学习\c语言\c文件\demo1\linklist.h
+	"Set.h"
+
+1695530258 source:d:\办公学习\c语言\c文件\demo1\sqlist2.cpp
+	"sqlist2.h"
+
+1694963760 d:\办公学习\c语言\c文件\demo1\sqlist2.h
+	"Set.h"
+
+1695530674 source:d:\办公学习\c语言\c文件\demo1\linklist2.cpp
+	"linklist2.h"
+
+1695530674 d:\办公学习\c语言\c文件\demo1\linklist2.h
+	"Set.h"
+
