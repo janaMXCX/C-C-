@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1698238273 source:d:\办公学习\c语言\c文件\demo6\main.cpp
+	"Set.h"
+
+1699016959 d:\办公学习\c语言\c文件\demo6\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<map>
+	<iostream>
+	<stack>
+	<queue>
+	"matrix.h"
+	"duilie.h"
+	"tables.h"
+	"minTree.h"
+	"Topological.h"
+	"zhan.h"
+
+1698289238 d:\办公学习\c语言\c文件\demo6\matrix.h
+	"Set.h"
+
+1699017023 source:d:\办公学习\c语言\c文件\demo6\set.cpp
+	"Set.h"
+
+1698890414 source:d:\办公学习\c语言\c文件\demo6\matrix.cpp
+	"Set.h"
+
+1698288376 d:\办公学习\c语言\c文件\demo6\duilie.h
+	"Set.h"
+
+1698288376 source:d:\办公学习\c语言\c文件\demo6\duilie.cpp
+	"Set.h"
+
+1699021567 d:\办公学习\c语言\c文件\demo6\tables.h
+	"Set.h"
+
+1699021935 source:d:\办公学习\c语言\c文件\demo6\tables.cpp
+	"Set.h"
+
+1698895495 d:\办公学习\c语言\c文件\demo6\mintree.h
+	"Set.h"
+
+1698973587 source:d:\办公学习\c语言\c文件\demo6\mintree.cpp
+	"Set.h"
+
+1699017202 d:\办公学习\c语言\c文件\demo6\topological.h
+	"Set.h"
+
+1699018280 d:\办公学习\c语言\c文件\demo6\zhan.h
+	"Set.h"
+
+1699021567 source:d:\办公学习\c语言\c文件\demo6\topological.cpp
+	"Set.h"
+
+1699018280 source:d:\办公学习\c语言\c文件\demo6\zhan.cpp
+	"Set.h"
+
