@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1697548853 source:d:\办公学习\c语言\c文件\demo5\main.cpp
+	"Set.h"
+
+1697679804 d:\办公学习\c语言\c文件\demo5\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<map>
+	<iostream>
+	<stack>
+	<queue>
+	"create.h"
+	"StrTree.h"
+	"pathcch.h"
+
+1697555307 d:\办公学习\c语言\c文件\demo5\create.h
+	"Set.h"
+
+1697679890 source:d:\办公学习\c语言\c文件\demo5\set.cpp
+	"Set.h"
+	"pathlong.h"
+
+1697682167 source:d:\办公学习\c语言\c文件\demo5\create.cpp
+	"Set.h"
+
+1697557619 d:\办公学习\c语言\c文件\demo5\strtree.h
+	"Set.h"
+
+1697557635 source:d:\办公学习\c语言\c文件\demo5\strtree.cpp
+	"Set.h"
+
+1697683207 source:d:\办公学习\c语言\c文件\demo5\pathlong.cpp
+	"Set.h"
+
+1697683261 d:\办公学习\c语言\c文件\demo5\pathlong.h
+	"Set.h"
+

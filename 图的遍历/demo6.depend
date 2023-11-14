@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1698238273 source:d:\办公学习\c语言\c文件\demo6\main.cpp
+	"Set.h"
+
+1698578245 d:\办公学习\c语言\c文件\demo6\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<map>
+	<iostream>
+	<stack>
+	<queue>
+	"matrix.h"
+	"duilie.h"
+	"tables.h"
+
+1698289238 d:\办公学习\c语言\c文件\demo6\matrix.h
+	"Set.h"
+
+1698582525 source:d:\办公学习\c语言\c文件\demo6\set.cpp
+	"Set.h"
+
+1698289453 source:d:\办公学习\c语言\c文件\demo6\matrix.cpp
+	"Set.h"
+
+1698288376 d:\办公学习\c语言\c文件\demo6\duilie.h
+	"Set.h"
+
+1698288376 source:d:\办公学习\c语言\c文件\demo6\duilie.cpp
+	"Set.h"
+
+1698582525 d:\办公学习\c语言\c文件\demo6\tables.h
+	"Set.h"
+
+1698582525 source:d:\办公学习\c语言\c文件\demo6\tables.cpp
+	"Set.h"
+
