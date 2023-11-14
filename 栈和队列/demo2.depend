@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1696999504 source:d:\办公学习\c语言\c文件\demo2\set.cpp
+	"Set.h"
+
+1696434410 d:\办公学习\c语言\c文件\demo2\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"conversion.h"
+	"dance.h"
+	"operation.h"
+
+1696422156 source:d:\办公学习\c语言\c文件\demo2\conversion.cpp
+	"Set.h"
+
+1696586395 d:\办公学习\c语言\c文件\demo2\conversion.h
+	"Set.h"
+
+1695649847 source:d:\办公学习\c语言\c文件\demo2\main.cpp
+	"Set.h"
+
+1696583645 source:d:\办公学习\c语言\c文件\demo2\operation.cpp
+	"Set.h"
+
+1696905330 d:\办公学习\c语言\c文件\demo2\operation.h
+	"Set.h"
+
+1696999504 d:\办公学习\c语言\c文件\demo2\dance.h
+	<iostream>
+
+1696999766 source:d:\办公学习\c语言\c文件\demo2\dance.cpp
+	"dance.h"
+
+1696583557 source:d:\办公学习\c语言\c文件\demo2\prior.cpp
+
