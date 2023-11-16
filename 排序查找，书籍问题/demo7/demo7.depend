@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1700143130 source:d:\办公学习\c语言\c文件\demo7\main.cpp
+	"Set.h"
+
+1700142659 d:\办公学习\c语言\c文件\demo7\set.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<map>
+	<iostream>
+	<stack>
+	<queue>
+	"first.h"
+
+1700143412 d:\办公学习\c语言\c文件\demo7\first.h
+	"Set.h"
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1700141665 source:d:\办公学习\c语言\c文件\demo7\first.cpp
+	"Set.h"
+
+1700142712 source:d:\办公学习\c语言\c文件\demo7\set.cpp
+	"Set.h"
+
